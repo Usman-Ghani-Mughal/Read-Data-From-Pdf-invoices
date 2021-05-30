@@ -1,0 +1,5 @@
+Description,Qty,Unit,Price,GST,GST AMT,Amount
+"['BESAN', 'FINE', '900G', 'UTTAM', '-', '2', 'CTN']",24,PKT,2.50,FRE,0.00,60.00
+"['TAMARIND', '1KG', 'UTTAM']",12,PKT,4.50,FRE,0.00,54.00
+"['TAMARIND', '500G', 'UTTAM']",24,PKT,2.50,FRE,0.00,60.00
+,,,,,,Total: $174.00
